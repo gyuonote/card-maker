@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import styles from './app.module.css';
 import Login from './components/login/login';
 import Maker from './components/maker/maker';
+=======
+import React from "react";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import styles from "./app.module.css";
+import Login from "./components/login/login";
+import Maker from "./components/maker/maker";
+>>>>>>> b226c19ae681961f3fa2f1ba17c66acd257cac0e
 
 function App({ authService }) {
   return (

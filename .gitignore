@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+<<<<<<< HEAD
+=======
+# API Keys
+.env
+
+>>>>>>> b226c19ae681961f3fa2f1ba17c66acd257cac0e
 # production
 /build
 

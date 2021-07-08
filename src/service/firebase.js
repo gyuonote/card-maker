@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import firebase from 'firebase';
+=======
+import firebase from "firebase";
+>>>>>>> b226c19ae681961f3fa2f1ba17c66acd257cac0e
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
