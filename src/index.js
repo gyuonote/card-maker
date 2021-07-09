@@ -9,5 +9,6 @@ ReactDOM.render(
   <React.StrictMode>
     <App authService={authService} />
   </React.StrictMode>,
+
   document.getElementById("root")
 );
