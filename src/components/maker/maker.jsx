@@ -61,7 +61,6 @@ const Maker = ({ authService }) => {
         <Editor cards={cards} />
         <Preview cards={cards} />
       </div>
-
       <Footer />
     </section>
   );
